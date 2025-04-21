@@ -1,3 +1,4 @@
+
 # Exploratory Data Analysis on University Rankings
 
 This project performs exploratory analysis on university ranking data over time, focusing on countries, universities, and various ranking metrics.
@@ -70,3 +71,7 @@ This project performs exploratory analysis on university ranking data over time,
 This project is part of my SQL learning path and EDA practice.  
 It demonstrates how to explore datasets using SQL only, before jumping into visualization tools.
 
+
+# exploratory-data-analysis
+EDA project based on cleaned data
+>>>>>>> 87ce4b94df6a2a6051d93f2eec37c4b99b6d1093
